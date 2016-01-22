@@ -1,0 +1,83 @@
+.col-sm-12 {
+  height: 100px;
+  background-color: #a6a6a6;
+  color: black;
+  border: 2px solid black;
+  border-top: 5px solid black;
+  text-align: center;
+}
+
+.col-sm-6 {
+  height: 300px;
+  background-color: #a6a6a6;
+  color: black;
+  border: 2px solid black;
+
+}
+
+.col-sm-4 {
+  height: 300px;
+  background-color: #a6a6a6;
+  color: black;
+  border: 2px solid black;
+
+}
+
+.jumbotron {
+  border: 3px solid black;
+  border-radius: 30px;
+  text-align: center;
+
+}
+
+img {
+  max-height: 100px;
+  max-width: 100px;
+  float: left;
+  padding-right: 10px;
+}
+
+h1 {
+  font-family: monospace;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 35px;
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.col-sm-4 p {
+  font-size: 10pt;
+  text-align: left;
+}
+
+a {
+  color: #3365ff;
+}
+
+a::visited {
+  color: #00cc00;
+}
+
+body {
+
+  background-image: url("https://www.xmple.com/wallpaper/honeycomb-black-blue-hexagon-beehive-1920x1080-c2-000000-00ced1-l2-1-60-a-40-f-5.svg");
+  background-size:cover;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+  height: 30px;
+  margin-top: 20px;
+}
+
+.pagination {
+
+}
